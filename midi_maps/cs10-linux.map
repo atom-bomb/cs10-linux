@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArdourMIDIBindings version="1.0.0" name="cs10-linux">
+
+	<DeviceInfo motorized="no" threshold="15"/>
+
+<!-- Strip 1 -->
+	<Binding channel="1" ctl="0" uri="/route/recenable 1"/>
+	<Binding channel="1" ctl="1" uri="/route/mute 1"/>
+	<Binding channel="1" ctl="2" uri="/route/solo 1"/>
+	<Binding channel="1" ctl="3" uri="/route/gain 1"/>
+	<Binding channel="1" ctl="4" uri="/route/plugin/parameter 1 1 1"/>
+	<Binding channel="1" ctl="5" uri="/route/plugin/parameter 2 1 1"/>
+	<Binding channel="1" ctl="6" uri="/route/plugin/parameter 3 1 1"/>
+	<Binding channel="1" ctl="7" uri="/route/send/gain 1 1"/>
+	<Binding channel="1" ctl="8" uri="/route/send/gain 2 1"/>
+	<Binding channel="1" ctl="9" uri="/route/pandirection 1"/>
+
+<!-- Strip 2 -->
+	<Binding channel="1" ctl="10" uri="/route/recenable 2"/>
+	<Binding channel="1" ctl="11" uri="/route/mute 2"/>
+	<Binding channel="1" ctl="12" uri="/route/solo 2"/>
+	<Binding channel="1" ctl="13" uri="/route/gain 2"/>
+	<Binding channel="1" ctl="14" uri="/route/plugin/parameter 1 1 2"/>
+	<Binding channel="1" ctl="15" uri="/route/plugin/parameter 2 1 2"/>
+	<Binding channel="1" ctl="16" uri="/route/plugin/parameter 3 1 2"/>
+	<Binding channel="1" ctl="17" uri="/route/send/gain 1 2"/>
+	<Binding channel="1" ctl="18" uri="/route/send/gain 2 2"/>
+	<Binding channel="1" ctl="19" uri="/route/pandirection 2"/>
+
+<!-- Strip 3 -->
+	<Binding channel="1" ctl="20" uri="/route/recenable 3"/>
+	<Binding channel="1" ctl="21" uri="/route/mute 3"/>
+	<Binding channel="1" ctl="22" uri="/route/solo 3"/>
+	<Binding channel="1" ctl="23" uri="/route/gain 3"/>
+	<Binding channel="1" ctl="24" uri="/route/plugin/parameter 1 1 3"/>
+	<Binding channel="1" ctl="25" uri="/route/plugin/parameter 2 1 3"/>
+	<Binding channel="1" ctl="26" uri="/route/plugin/parameter 3 1 3"/>
+	<Binding channel="1" ctl="27" uri="/route/send/gain 1 3"/>
+	<Binding channel="1" ctl="28" uri="/route/send/gain 2 3"/>
+	<Binding channel="1" ctl="29" uri="/route/pandirection 3"/>
+
+<!-- Strip 4 -->
+	<Binding channel="1" ctl="30" uri="/route/recenable 4"/>
+	<Binding channel="1" ctl="31" uri="/route/mute 4"/>
+	<Binding channel="1" ctl="32" uri="/route/solo 4"/>
+	<Binding channel="1" ctl="33" uri="/route/gain 4"/>
+	<Binding channel="1" ctl="34" uri="/route/plugin/parameter 1 1 4"/>
+	<Binding channel="1" ctl="35" uri="/route/plugin/parameter 2 1 4"/>
+	<Binding channel="1" ctl="36" uri="/route/plugin/parameter 3 1 4"/>
+	<Binding channel="1" ctl="37" uri="/route/send/gain 1 4"/>
+	<Binding channel="1" ctl="38" uri="/route/send/gain 2 4"/>
+	<Binding channel="1" ctl="39" uri="/route/pandirection 4"/>
+
+<!-- Strip 5 -->
+	<Binding channel="1" ctl="40" uri="/route/recenable 5"/>
+	<Binding channel="1" ctl="41" uri="/route/mute 5"/>
+	<Binding channel="1" ctl="42" uri="/route/solo 5"/>
+	<Binding channel="1" ctl="43" uri="/route/gain 5"/>
+	<Binding channel="1" ctl="44" uri="/route/plugin/parameter 1 1 5"/>
+	<Binding channel="1" ctl="45" uri="/route/plugin/parameter 2 1 5"/>
+	<Binding channel="1" ctl="46" uri="/route/plugin/parameter 3 1 5"/>
+	<Binding channel="1" ctl="47" uri="/route/send/gain 1 5"/>
+	<Binding channel="1" ctl="48" uri="/route/send/gain 2 5"/>
+	<Binding channel="1" ctl="49" uri="/route/pandirection 5"/>
+
+<!-- Strip 6 -->
+	<Binding channel="1" ctl="50" uri="/route/recenable 6"/>
+	<Binding channel="1" ctl="51" uri="/route/mute 6"/>
+	<Binding channel="1" ctl="52" uri="/route/solo 6"/>
+	<Binding channel="1" ctl="53" uri="/route/gain 6"/>
+	<Binding channel="1" ctl="54" uri="/route/plugin/parameter 1 1 6"/>
+	<Binding channel="1" ctl="55" uri="/route/plugin/parameter 2 1 6"/>
+	<Binding channel="1" ctl="56" uri="/route/plugin/parameter 3 1 6"/>
+	<Binding channel="1" ctl="57" uri="/route/send/gain 1 6"/>
+	<Binding channel="1" ctl="58" uri="/route/send/gain 2 6"/>
+	<Binding channel="1" ctl="59" uri="/route/pandirection 6"/>
+
+<!-- Strip 7 -->
+	<Binding channel="1" ctl="60" uri="/route/recenable 7"/>
+	<Binding channel="1" ctl="61" uri="/route/mute 7"/>
+	<Binding channel="1" ctl="62" uri="/route/solo 7"/>
+	<Binding channel="1" ctl="63" uri="/route/gain 7"/>
+	<Binding channel="1" ctl="64" uri="/route/plugin/parameter 1 1 7"/>
+	<Binding channel="1" ctl="65" uri="/route/plugin/parameter 2 1 7"/>
+	<Binding channel="1" ctl="66" uri="/route/plugin/parameter 3 1 7"/>
+	<Binding channel="1" ctl="67" uri="/route/send/gain 1 7"/>
+	<Binding channel="1" ctl="68" uri="/route/send/gain 2 7"/>
+	<Binding channel="1" ctl="69" uri="/route/pandirection 7"/>
+
+<!-- Strip 8 -->
+	<Binding channel="1" ctl="70" uri="/route/recenable 8"/>
+	<Binding channel="1" ctl="71" uri="/route/mute 8"/>
+	<Binding channel="1" ctl="72" uri="/route/solo 8"/>
+	<Binding channel="1" ctl="73" uri="/route/gain 8"/>
+	<Binding channel="1" ctl="74" uri="/route/plugin/parameter 1 1 8"/>
+	<Binding channel="1" ctl="75" uri="/route/plugin/parameter 2 1 8"/>
+	<Binding channel="1" ctl="76" uri="/route/plugin/parameter 3 1 8"/>
+	<Binding channel="1" ctl="77" uri="/route/send/gain 1 8"/>
+	<Binding channel="1" ctl="78" uri="/route/send/gain 2 8"/>
+	<Binding channel="1" ctl="79" uri="/route/pandirection 8"/>
+
+<!-- Strip 9 -->
+	<Binding channel="2" ctl="0" uri="/route/recenable 9"/>
+	<Binding channel="2" ctl="1" uri="/route/mute 9"/>
+	<Binding channel="2" ctl="2" uri="/route/solo 9"/>
+	<Binding channel="2" ctl="3" uri="/route/gain 9"/>
+	<Binding channel="2" ctl="4" uri="/route/plugin/parameter 1 1 9"/>
+	<Binding channel="2" ctl="5" uri="/route/plugin/parameter 2 1 9"/>
+	<Binding channel="2" ctl="6" uri="/route/plugin/parameter 3 1 9"/>
+	<Binding channel="2" ctl="7" uri="/route/send/gain 1 9"/>
+	<Binding channel="2" ctl="8" uri="/route/send/gain 2 9"/>
+	<Binding channel="2" ctl="9" uri="/route/pandirection 9"/>
+
+<!-- Strip 10 -->
+	<Binding channel="2" ctl="10" uri="/route/recenable 10"/>
+	<Binding channel="2" ctl="11" uri="/route/mute 10"/>
+	<Binding channel="2" ctl="12" uri="/route/solo 10"/>
+	<Binding channel="2" ctl="13" uri="/route/gain 10"/>
+	<Binding channel="2" ctl="14" uri="/route/plugin/parameter 1 1 10"/>
+	<Binding channel="2" ctl="15" uri="/route/plugin/parameter 2 1 10"/>
+	<Binding channel="2" ctl="16" uri="/route/plugin/parameter 3 1 10"/>
+	<Binding channel="2" ctl="17" uri="/route/send/gain 1 10"/>
+	<Binding channel="2" ctl="18" uri="/route/send/gain 2 10"/>
+	<Binding channel="2" ctl="19" uri="/route/pandirection 10"/>
+
+<!-- Strip 11 -->
+	<Binding channel="2" ctl="20" uri="/route/recenable 11"/>
+	<Binding channel="2" ctl="21" uri="/route/mute 11"/>
+	<Binding channel="2" ctl="22" uri="/route/solo 11"/>
+	<Binding channel="2" ctl="23" uri="/route/gain 11"/>
+	<Binding channel="2" ctl="24" uri="/route/plugin/parameter 1 1 11"/>
+	<Binding channel="2" ctl="25" uri="/route/plugin/parameter 2 1 11"/>
+	<Binding channel="2" ctl="26" uri="/route/plugin/parameter 3 1 11"/>
+	<Binding channel="2" ctl="27" uri="/route/send/gain 1 11"/>
+	<Binding channel="2" ctl="28" uri="/route/send/gain 2 11"/>
+	<Binding channel="2" ctl="29" uri="/route/pandirection 11"/>
+
+<!-- Strip 12 -->
+	<Binding channel="2" ctl="30" uri="/route/recenable 12"/>
+	<Binding channel="2" ctl="31" uri="/route/mute 12"/>
+	<Binding channel="2" ctl="32" uri="/route/solo 12"/>
+	<Binding channel="2" ctl="33" uri="/route/gain 12"/>
+	<Binding channel="2" ctl="34" uri="/route/plugin/parameter 1 1 12"/>
+	<Binding channel="2" ctl="35" uri="/route/plugin/parameter 2 1 12"/>
+	<Binding channel="2" ctl="36" uri="/route/plugin/parameter 3 1 12"/>
+	<Binding channel="2" ctl="37" uri="/route/send/gain 1 12"/>
+	<Binding channel="2" ctl="38" uri="/route/send/gain 2 12"/>
+	<Binding channel="2" ctl="39" uri="/route/pandirection 12"/>
+
+<!-- Strip 13 -->
+	<Binding channel="2" ctl="40" uri="/route/recenable 13"/>
+	<Binding channel="2" ctl="41" uri="/route/mute 13"/>
+	<Binding channel="2" ctl="42" uri="/route/solo 13"/>
+	<Binding channel="2" ctl="43" uri="/route/gain 13"/>
+	<Binding channel="2" ctl="44" uri="/route/plugin/parameter 1 1 13"/>
+	<Binding channel="2" ctl="45" uri="/route/plugin/parameter 2 1 13"/>
+	<Binding channel="2" ctl="46" uri="/route/plugin/parameter 3 1 13"/>
+	<Binding channel="2" ctl="47" uri="/route/send/gain 1 13"/>
+	<Binding channel="2" ctl="48" uri="/route/send/gain 2 13"/>
+	<Binding channel="2" ctl="49" uri="/route/pandirection 13"/>
+
+<!-- Strip 14 -->
+	<Binding channel="2" ctl="50" uri="/route/recenable 14"/>
+	<Binding channel="2" ctl="51" uri="/route/mute 14"/>
+	<Binding channel="2" ctl="52" uri="/route/solo 14"/>
+	<Binding channel="2" ctl="53" uri="/route/gain 14"/>
+	<Binding channel="2" ctl="54" uri="/route/plugin/parameter 1 1 14"/>
+	<Binding channel="2" ctl="55" uri="/route/plugin/parameter 2 1 14"/>
+	<Binding channel="2" ctl="56" uri="/route/plugin/parameter 3 1 14"/>
+	<Binding channel="2" ctl="57" uri="/route/send/gain 1 14"/>
+	<Binding channel="2" ctl="58" uri="/route/send/gain 2 14"/>
+	<Binding channel="2" ctl="59" uri="/route/pandirection 14"/>
+
+<!-- Strip 15 -->
+	<Binding channel="2" ctl="60" uri="/route/recenable 15"/>
+	<Binding channel="2" ctl="61" uri="/route/mute 15"/>
+	<Binding channel="2" ctl="62" uri="/route/solo 15"/>
+	<Binding channel="2" ctl="63" uri="/route/gain 15"/>
+	<Binding channel="2" ctl="64" uri="/route/plugin/parameter 1 1 15"/>
+	<Binding channel="2" ctl="65" uri="/route/plugin/parameter 2 1 15"/>
+	<Binding channel="2" ctl="66" uri="/route/plugin/parameter 3 1 15"/>
+	<Binding channel="2" ctl="67" uri="/route/send/gain 1 15"/>
+	<Binding channel="2" ctl="68" uri="/route/send/gain 2 15"/>
+	<Binding channel="2" ctl="69" uri="/route/pandirection 15"/>
+
+<!-- Strip 16 -->
+	<Binding channel="2" ctl="70" uri="/route/recenable 16"/>
+	<Binding channel="2" ctl="71" uri="/route/mute 16"/>
+	<Binding channel="2" ctl="72" uri="/route/solo 16"/>
+	<Binding channel="2" ctl="73" uri="/route/gain 16"/>
+	<Binding channel="2" ctl="74" uri="/route/plugin/parameter 1 1 16"/>
+	<Binding channel="2" ctl="75" uri="/route/plugin/parameter 2 1 16"/>
+	<Binding channel="2" ctl="76" uri="/route/plugin/parameter 3 1 16"/>
+	<Binding channel="2" ctl="77" uri="/route/send/gain 1 16"/>
+	<Binding channel="2" ctl="78" uri="/route/send/gain 2 16"/>
+	<Binding channel="2" ctl="79" uri="/route/pandirection 16"/>
+
+<!-- Strip 17 -->
+	<Binding channel="3" ctl="0" uri="/route/recenable 17"/>
+	<Binding channel="3" ctl="1" uri="/route/mute 17"/>
+	<Binding channel="3" ctl="2" uri="/route/solo 17"/>
+	<Binding channel="3" ctl="3" uri="/route/gain 17"/>
+	<Binding channel="3" ctl="4" uri="/route/plugin/parameter 1 1 17"/>
+	<Binding channel="3" ctl="5" uri="/route/plugin/parameter 2 1 17"/>
+	<Binding channel="3" ctl="6" uri="/route/plugin/parameter 3 1 17"/>
+	<Binding channel="3" ctl="7" uri="/route/send/gain 1 17"/>
+	<Binding channel="3" ctl="8" uri="/route/send/gain 2 17"/>
+	<Binding channel="3" ctl="9" uri="/route/pandirection 17"/>
+
+<!-- Strip 18 -->
+	<Binding channel="3" ctl="10" uri="/route/recenable 18"/>
+	<Binding channel="3" ctl="11" uri="/route/mute 18"/>
+	<Binding channel="3" ctl="12" uri="/route/solo 18"/>
+	<Binding channel="3" ctl="13" uri="/route/gain 18"/>
+	<Binding channel="3" ctl="14" uri="/route/plugin/parameter 1 1 18"/>
+	<Binding channel="3" ctl="15" uri="/route/plugin/parameter 2 1 18"/>
+	<Binding channel="3" ctl="16" uri="/route/plugin/parameter 3 1 18"/>
+	<Binding channel="3" ctl="17" uri="/route/send/gain 1 18"/>
+	<Binding channel="3" ctl="18" uri="/route/send/gain 2 18"/>
+	<Binding channel="3" ctl="19" uri="/route/pandirection 18"/>
+
+<!-- Strip 19 -->
+	<Binding channel="3" ctl="20" uri="/route/recenable 19"/>
+	<Binding channel="3" ctl="21" uri="/route/mute 19"/>
+	<Binding channel="3" ctl="22" uri="/route/solo 19"/>
+	<Binding channel="3" ctl="23" uri="/route/gain 19"/>
+	<Binding channel="3" ctl="24" uri="/route/plugin/parameter 1 1 19"/>
+	<Binding channel="3" ctl="25" uri="/route/plugin/parameter 2 1 19"/>
+	<Binding channel="3" ctl="26" uri="/route/plugin/parameter 3 1 19"/>
+	<Binding channel="3" ctl="27" uri="/route/send/gain 1 19"/>
+	<Binding channel="3" ctl="28" uri="/route/send/gain 2 19"/>
+	<Binding channel="3" ctl="29" uri="/route/pandirection 19"/>
+
+<!-- Strip 20 -->
+	<Binding channel="3" ctl="30" uri="/route/recenable 20"/>
+	<Binding channel="3" ctl="31" uri="/route/mute 20"/>
+	<Binding channel="3" ctl="32" uri="/route/solo 20"/>
+	<Binding channel="3" ctl="33" uri="/route/gain 20"/>
+	<Binding channel="3" ctl="34" uri="/route/plugin/parameter 1 1 20"/>
+	<Binding channel="3" ctl="35" uri="/route/plugin/parameter 2 1 20"/>
+	<Binding channel="3" ctl="36" uri="/route/plugin/parameter 3 1 20"/>
+	<Binding channel="3" ctl="37" uri="/route/send/gain 1 20"/>
+	<Binding channel="3" ctl="38" uri="/route/send/gain 2 20"/>
+	<Binding channel="3" ctl="39" uri="/route/pandirection 20"/>
+
+<!-- Strip 21 -->
+	<Binding channel="3" ctl="40" uri="/route/recenable 21"/>
+	<Binding channel="3" ctl="41" uri="/route/mute 21"/>
+	<Binding channel="3" ctl="42" uri="/route/solo 21"/>
+	<Binding channel="3" ctl="43" uri="/route/gain 21"/>
+	<Binding channel="3" ctl="44" uri="/route/plugin/parameter 1 1 21"/>
+	<Binding channel="3" ctl="45" uri="/route/plugin/parameter 2 1 21"/>
+	<Binding channel="3" ctl="46" uri="/route/plugin/parameter 3 1 21"/>
+	<Binding channel="3" ctl="47" uri="/route/send/gain 1 21"/>
+	<Binding channel="3" ctl="48" uri="/route/send/gain 2 21"/>
+	<Binding channel="3" ctl="49" uri="/route/pandirection 21"/>
+
+<!-- Strip 22 -->
+	<Binding channel="3" ctl="50" uri="/route/recenable 22"/>
+	<Binding channel="3" ctl="51" uri="/route/mute 22"/>
+	<Binding channel="3" ctl="52" uri="/route/solo 22"/>
+	<Binding channel="3" ctl="53" uri="/route/gain 22"/>
+	<Binding channel="3" ctl="54" uri="/route/plugin/parameter 1 1 22"/>
+	<Binding channel="3" ctl="55" uri="/route/plugin/parameter 2 1 22"/>
+	<Binding channel="3" ctl="56" uri="/route/plugin/parameter 3 1 22"/>
+	<Binding channel="3" ctl="57" uri="/route/send/gain 1 22"/>
+	<Binding channel="3" ctl="58" uri="/route/send/gain 2 22"/>
+	<Binding channel="3" ctl="59" uri="/route/pandirection 22"/>
+
+<!-- Strip 23 -->
+	<Binding channel="3" ctl="60" uri="/route/recenable 23"/>
+	<Binding channel="3" ctl="61" uri="/route/mute 23"/>
+	<Binding channel="3" ctl="62" uri="/route/solo 23"/>
+	<Binding channel="3" ctl="63" uri="/route/gain 23"/>
+	<Binding channel="3" ctl="64" uri="/route/plugin/parameter 1 1 23"/>
+	<Binding channel="3" ctl="65" uri="/route/plugin/parameter 2 1 23"/>
+	<Binding channel="3" ctl="66" uri="/route/plugin/parameter 3 1 23"/>
+	<Binding channel="3" ctl="67" uri="/route/send/gain 1 23"/>
+	<Binding channel="3" ctl="68" uri="/route/send/gain 2 23"/>
+	<Binding channel="3" ctl="69" uri="/route/pandirection 23"/>
+
+<!-- Strip 24 -->
+	<Binding channel="3" ctl="70" uri="/route/recenable 24"/>
+	<Binding channel="3" ctl="71" uri="/route/mute 24"/>
+	<Binding channel="3" ctl="72" uri="/route/solo 24"/>
+	<Binding channel="3" ctl="73" uri="/route/gain 24"/>
+	<Binding channel="3" ctl="74" uri="/route/plugin/parameter 1 1 24"/>
+	<Binding channel="3" ctl="75" uri="/route/plugin/parameter 2 1 24"/>
+	<Binding channel="3" ctl="76" uri="/route/plugin/parameter 3 1 24"/>
+	<Binding channel="3" ctl="77" uri="/route/send/gain 1 24"/>
+	<Binding channel="3" ctl="78" uri="/route/send/gain 2 24"/>
+	<Binding channel="3" ctl="79" uri="/route/pandirection 24"/>
+
+<!-- Strip 25 -->
+	<Binding channel="4" ctl="0" uri="/route/recenable 25"/>
+	<Binding channel="4" ctl="1" uri="/route/mute 25"/>
+	<Binding channel="4" ctl="2" uri="/route/solo 25"/>
+	<Binding channel="4" ctl="3" uri="/route/gain 25"/>
+	<Binding channel="4" ctl="4" uri="/route/plugin/parameter 1 1 25"/>
+	<Binding channel="4" ctl="5" uri="/route/plugin/parameter 2 1 25"/>
+	<Binding channel="4" ctl="6" uri="/route/plugin/parameter 3 1 25"/>
+	<Binding channel="4" ctl="7" uri="/route/send/gain 1 25"/>
+	<Binding channel="4" ctl="8" uri="/route/send/gain 2 25"/>
+	<Binding channel="4" ctl="9" uri="/route/pandirection 25"/>
+
+<!-- Strip 26 -->
+	<Binding channel="4" ctl="10" uri="/route/recenable 26"/>
+	<Binding channel="4" ctl="11" uri="/route/mute 26"/>
+	<Binding channel="4" ctl="12" uri="/route/solo 26"/>
+	<Binding channel="4" ctl="13" uri="/route/gain 26"/>
+	<Binding channel="4" ctl="14" uri="/route/plugin/parameter 1 1 26"/>
+	<Binding channel="4" ctl="25" uri="/route/plugin/parameter 2 1 26"/>
+	<Binding channel="4" ctl="16" uri="/route/plugin/parameter 3 1 26"/>
+	<Binding channel="4" ctl="17" uri="/route/send/gain 1 26"/>
+	<Binding channel="4" ctl="18" uri="/route/send/gain 2 26"/>
+	<Binding channel="4" ctl="19" uri="/route/pandirection 26"/>
+
+<!-- Strip 27 -->
+	<Binding channel="4" ctl="20" uri="/route/recenable 27"/>
+	<Binding channel="4" ctl="21" uri="/route/mute 27"/>
+	<Binding channel="4" ctl="22" uri="/route/solo 27"/>
+	<Binding channel="4" ctl="23" uri="/route/gain 27"/>
+	<Binding channel="4" ctl="24" uri="/route/plugin/parameter 1 1 27"/>
+	<Binding channel="4" ctl="25" uri="/route/plugin/parameter 2 1 27"/>
+	<Binding channel="4" ctl="26" uri="/route/plugin/parameter 3 1 27"/>
+	<Binding channel="4" ctl="27" uri="/route/send/gain 1 27"/>
+	<Binding channel="4" ctl="28" uri="/route/send/gain 2 27"/>
+	<Binding channel="4" ctl="29" uri="/route/pandirection 27"/>
+
+<!-- Strip 28 -->
+	<Binding channel="4" ctl="30" uri="/route/recenable 28"/>
+	<Binding channel="4" ctl="31" uri="/route/mute 28"/>
+	<Binding channel="4" ctl="32" uri="/route/solo 28"/>
+	<Binding channel="4" ctl="33" uri="/route/gain 28"/>
+	<Binding channel="4" ctl="34" uri="/route/plugin/parameter 1 1 28"/>
+	<Binding channel="4" ctl="35" uri="/route/plugin/parameter 2 1 28"/>
+	<Binding channel="4" ctl="36" uri="/route/plugin/parameter 3 1 28"/>
+	<Binding channel="4" ctl="37" uri="/route/send/gain 1 28"/>
+	<Binding channel="4" ctl="38" uri="/route/send/gain 2 28"/>
+	<Binding channel="4" ctl="39" uri="/route/pandirection 28"/>
+
+<!-- Strip 29 -->
+	<Binding channel="4" ctl="40" uri="/route/recenable 29"/>
+	<Binding channel="4" ctl="41" uri="/route/mute 29"/>
+	<Binding channel="4" ctl="42" uri="/route/solo 29"/>
+	<Binding channel="4" ctl="43" uri="/route/gain 29"/>
+	<Binding channel="4" ctl="44" uri="/route/plugin/parameter 1 1 29"/>
+	<Binding channel="4" ctl="45" uri="/route/plugin/parameter 2 1 29"/>
+	<Binding channel="4" ctl="46" uri="/route/plugin/parameter 3 1 29"/>
+	<Binding channel="4" ctl="47" uri="/route/send/gain 1 29"/>
+	<Binding channel="4" ctl="48" uri="/route/send/gain 2 29"/>
+	<Binding channel="4" ctl="49" uri="/route/pandirection 29"/>
+
+<!-- Strip 30 -->
+	<Binding channel="4" ctl="50" uri="/route/recenable 30"/>
+	<Binding channel="4" ctl="51" uri="/route/mute 30"/>
+	<Binding channel="4" ctl="52" uri="/route/solo 30"/>
+	<Binding channel="4" ctl="53" uri="/route/gain 30"/>
+	<Binding channel="4" ctl="54" uri="/route/plugin/parameter 1 1 30"/>
+	<Binding channel="4" ctl="55" uri="/route/plugin/parameter 2 1 30"/>
+	<Binding channel="4" ctl="56" uri="/route/plugin/parameter 3 1 30"/>
+	<Binding channel="4" ctl="57" uri="/route/send/gain 1 30"/>
+	<Binding channel="4" ctl="58" uri="/route/send/gain 2 30"/>
+	<Binding channel="4" ctl="59" uri="/route/pandirection 30"/>
+
+<!-- Strip 31 -->
+	<Binding channel="4" ctl="60" uri="/route/recenable 31"/>
+	<Binding channel="4" ctl="61" uri="/route/mute 31"/>
+	<Binding channel="4" ctl="62" uri="/route/solo 31"/>
+	<Binding channel="4" ctl="63" uri="/route/gain 31"/>
+	<Binding channel="4" ctl="64" uri="/route/plugin/parameter 1 1 31"/>
+	<Binding channel="4" ctl="65" uri="/route/plugin/parameter 2 1 31"/>
+	<Binding channel="4" ctl="66" uri="/route/plugin/parameter 3 1 31"/>
+	<Binding channel="4" ctl="67" uri="/route/send/gain 1 31"/>
+	<Binding channel="4" ctl="68" uri="/route/send/gain 2 31"/>
+	<Binding channel="4" ctl="69" uri="/route/pandirection 31"/>
+
+<!-- Strip 32 -->
+	<Binding channel="4" ctl="70" uri="/route/recenable 32"/>
+	<Binding channel="4" ctl="71" uri="/route/mute 32"/>
+	<Binding channel="4" ctl="72" uri="/route/solo 32"/>
+	<Binding channel="4" ctl="73" uri="/route/gain 32"/>
+	<Binding channel="4" ctl="74" uri="/route/plugin/parameter 1 1 32"/>
+	<Binding channel="4" ctl="75" uri="/route/plugin/parameter 2 1 32"/>
+	<Binding channel="4" ctl="76" uri="/route/plugin/parameter 3 1 32"/>
+	<Binding channel="4" ctl="77" uri="/route/send/gain 1 32"/>
+	<Binding channel="4" ctl="78" uri="/route/send/gain 2 32"/>
+	<Binding channel="4" ctl="79" uri="/route/pandirection 32"/>
+
+</ArdourMIDIBindings>
